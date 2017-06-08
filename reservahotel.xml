@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<reservaHotel>
+	<aceitaCrianca>não</aceitaCrianca>
+	<registro>
+		<cliente>Rafael Rodrigues</cliente>
+		<dataCheckin>21/03/2011</dataCheckin>
+		<dataCheckout>27/03/2011</dataCheckout>
+	</registro>
+	<registro>
+		<hotel>Marazul</hotel>
+		<acomodacao tipo="casal" />
+	</registro>
+	<idiomas />
+</reservaHotel>
